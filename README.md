@@ -1,5 +1,8 @@
 # Chocolate Sales Power BI Dashboard
 
+<img width="1540" height="861" alt="image" src="https://github.com/user-attachments/assets/d34237fd-7b38-4ed1-83ca-4db94a78cb95" />
+
+
 An interactive Power BI dashboard developed to analyze chocolate sales performance, profitability, shipment trends, product performance, geographic distribution, and salesperson performance.
 
 ## Dashboard Preview
