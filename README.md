@@ -59,5 +59,6 @@ The complete Power BI report is available in:
 ## Author
 
 **M Sreeram Reddy**
+sreeram2124@gmail.com
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
