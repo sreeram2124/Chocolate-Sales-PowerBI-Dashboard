@@ -62,5 +62,3 @@ The complete Power BI report is available in:
 📧 [sreeram2124@gmail.com](mailto:sreeram2124@gmail.com)
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
-
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
